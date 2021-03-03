@@ -11,8 +11,7 @@ Hey, I'm Danny!
 Ask me about any of my projects you find in my public repositories!
 
 How to reach me:
-- Connect with me on LinkedIn -> linkedin.com/in/danny-gletner/ 
-- Message me on Handshake     -> georgetown.joinhandshake.com/users/15155200
+- Connect with me on LinkedIn -> linkedin.com/in/danny-gletner/
   
 More about me:
 - I love to code, but I also love to get outside and bike, snowboard, run, hike, you name it.
