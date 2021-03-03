@@ -10,13 +10,13 @@ I’m looking to collaborate with others and work on interesting projects (Games
 
 Ask me about any of my projects you find in my public repositories.
 
-How to reach me: 
-  Connect with me on LinkedIn -> linkedin.com/in/danny-gletner/ 
-  Message me on Handshake     -> georgetown.joinhandshake.com/users/15155200
+How to reach me:
+- Connect with me on LinkedIn -> linkedin.com/in/danny-gletner/ 
+- Message me on Handshake     -> georgetown.joinhandshake.com/users/15155200
   
 More about me:
-I love to code, but I also love to get outside and bike, snowboard, run, hike, you name it.
-I like to play video games! (Fun Fact: I am in the top 1% of Speedrunners players)
-I play club rugby at GU.
+- I love to code, but I also love to get outside and bike, snowboard, run, hike, you name it.
+- I like to play video games! (Fun Fact: I am in the top 1% of Speedrunners players)
+- I play club rugby at GU.
 
 
