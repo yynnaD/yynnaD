@@ -10,7 +10,7 @@ Hey, I'm Danny!
 
 - I’m looking to collaborate with others and work on interesting projects (Games, Apps, anything!).
 
-- Ask me about any of my projects you find in my public repositories.
+Ask me about any of my projects you find in my public repositories!
 
 How to reach me:
 - Connect with me on LinkedIn -> linkedin.com/in/danny-gletner/ 
