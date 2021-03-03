@@ -2,9 +2,7 @@ Hey, I'm Danny!
 
 - I am a Junior at Georgetown University pursuing a Computer Science BS. 
 
-- I’m currently learning more about low level programming and Operating Systems, as well as Machine Learning. 
-
-- I have experience in mostly C, C++, and Java, but I'm a quick learner.
+- I’m currently learning more about low level programming and Operating Systems, as well as Machine Learning.
 
 - I am interested in all types of programming across the stack, and I like to solve complex problems.
 
