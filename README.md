@@ -1,6 +1,6 @@
 Hey, I'm Danny!
 
-- I am a Junior at Georgetown University pursuing a Computer Science BS. 
+- I am a rising Senior at Georgetown University pursuing a Computer Science BS. 
 
 - I’m currently learning more about low level programming and Operating Systems, as well as Machine Learning.
 
