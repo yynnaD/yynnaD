@@ -2,7 +2,7 @@ Hey, I'm Danny!
 
 - I am a rising Senior at Georgetown University pursuing a Computer Science BS. 
 
-- I’m currently learning more about low level programming and Operating Systems, as well as Machine Learning.
+- I’m currently working as a Software Engineering Intern at ServiceNow. 
 
 - I am interested in all types of programming across the stack, and I like to solve complex problems.
 
